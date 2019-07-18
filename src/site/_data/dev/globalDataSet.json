@@ -1,0 +1,10 @@
+{
+  "myData": ["item1", "item2", "item3", "item4", "item5", "item6"],
+  "moreStuff": ["VW", "Hyundai", "Audi", "Dodge", "Ford"],
+  "bigStuff": [
+    { "name": "Ferrari", "path": "ferari" },
+    { "name": "Yugo", "path": "yugo" },
+    { "name": "Two Words", "path": "two_words" },
+    { "name": "Five Words", "path": "five-words" }
+  ]
+}
